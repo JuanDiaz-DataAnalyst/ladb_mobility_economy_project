@@ -1,6 +1,16 @@
-# LADB Mobility & Economy Project
+# LADB Urban Mobility & Economic Analysis | Python
 
-Repositorio del Proyecto 5 del programa de Analista de Datos (TripleTen). Este proyecto simula el trabajo de un analista de datos en el American Development Bank (LADB), cuyo equipo debe entender cómo la movilidad urbana se relaciona con la productividad económica en distintas ciudades del mundo, con el fin de identificar en qué ciudades conviene invertir en infraestructura de transporte.
+**English summary.** Analysis for the Latin American Development Bank (LADB) on whether urban mobility relates to economic productivity across cities. I combined TomTom Traffic Index data with OECD city indicators (GDP per capita, unemployment, population), filtered to 2024, built city-level mobility indicators, merged both sources and explored the relationship visually. Mexico City showed the highest average congestion, while GDP per capita varied widely without a consistent link to traffic delays.
+
+- **Tools:** Python, Pandas, NumPy, Seaborn, Matplotlib (Jupyter Notebook)
+- **Full case study:** [Notion portfolio](https://valuable-holly-5b4.notion.site/3a56df793f628047bfa0ea8b1d256b41)
+- **Context:** project completed as part of the TripleTen Data Analytics Bootcamp.
+
+---
+
+## Resumen en español
+
+Proyecto del programa de Analista de Datos de TripleTen. Este proyecto simula el trabajo de un analista de datos en el Latin American Development Bank (LADB), cuyo equipo debe entender cómo la movilidad urbana se relaciona con la productividad económica en distintas ciudades del mundo, con el fin de identificar en qué ciudades conviene invertir en infraestructura de transporte.
 
 ## Descripción del proyecto
 
